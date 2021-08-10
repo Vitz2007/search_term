@@ -30,7 +30,7 @@ The purpose of this project is to understand which words were searched over the 
 
 
 ## Project Description
-Search term data was obtained from [Zenodo](https://zenodo.org/record/3715353#.YNwCnWQzbzc) because it was the most recent up to January 2020. Having interned as a digital marketer for a small consulting firm in Fukuoka, I was curious how users utilized the search engine for search from when my internship finished to 2020.
+Search term data was obtained from [Zenodo](https://zenodo.org/record/3715353#.YNwCnWQzbzc) because it had the most recent data leading up to January 2020. Having interned as a digital marketer for a small consulting firm in Fukuoka, I was curious how users utilized the search engine for search from when my internship finished to 2020.
 A challenge I faced cleaning the search term data was the punctuation marks. Removing them from the words column and making sure each year frequency matched with the right row made things interesting. But in the end I was able to extract punctuation marks and set them aside for further analysis (if need be).
 
 
