@@ -7,7 +7,7 @@
 
 
 ## Project Intro/Objective
-The purpose of this project is to understand which words were searched over the last five years and predict which words would be searched next using Random Forest.
+The purpose of this project is to understand which words were searched over the last five years, predict which words would be searched next using Random Forest, use Hyperparameter tuning to improve accuracy of model.
 
 
 ### Methods Used
